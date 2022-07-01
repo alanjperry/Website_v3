@@ -105,6 +105,12 @@ a {
 .caption {
   font-size: 1rem;
   font-style: italic;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.25rem;
   visibility: hidden;
+}
+
+.column .desc {
+  font-size: .7rem;
+  font-style: italic;
+  padding-bottom: 0.1rem;
 }
